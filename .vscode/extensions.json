@@ -1,0 +1,13 @@
+{
+    "recommendations": [
+      // prettier
+      "esbenp.prettier-vscode",
+      // tailwindcss
+      "bradlc.vscode-tailwindcss",
+      // eslint
+      "dbaeumer.vscode-eslint",
+
+      // pretty-ts-errors
+      "yoavbls.pretty-ts-errors"
+    ]
+  }

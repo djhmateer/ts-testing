@@ -4,7 +4,7 @@ console.log("Hello, world!");
 const bar = 1;
 
 // tsc squiggly error: cannot assign bar to 2 because it is a constant
-// bar = 2
+bar = 2
 
 const user = {
   firstName: "Angela",
